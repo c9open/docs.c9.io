@@ -50,7 +50,7 @@ There are a couple of things you should do first, before you can use all of git'
 git remote add [remote name] [remote url]
 ```
 
-`remote url` is the location of the project on GitHub; for example `'git@github.com:/ajaxorg/node_chat'`. You'll have to create a GitHub project first in order to generate this URL. Adding a remote URL lets you freely push and pull your project.
+`remote url` is the location of the project on GitHub; for example `'git@github.com:/ajaxorgopen/node_chat'`. You'll have to create a GitHub project first in order to generate this URL. Adding a remote URL lets you freely push and pull your project.
 
 Next, create a few new files inside your project. By default, you should already have a _README.md_. You can add these files to git with the following command:
 

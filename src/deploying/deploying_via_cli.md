@@ -32,7 +32,7 @@ information, read [the official `azure` documentation](https://github.com/Window
 ## Windows Azure Cloud Services
 
 For free and premium plans, follow the instructions on the 
-[azure-cmdlet-node](https://github.com/c9/azure-cmdlet-node) repository. This 
+[azure-cmdlet-node](https://github.com/c9open/azure-cmdlet-node) repository. This 
 project is maintained by Cloud9.
 
 ## Google App Engine

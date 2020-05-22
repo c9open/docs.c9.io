@@ -6,7 +6,7 @@ to run apps from the Terminal.
 
 ### Syntax Highlighting
 
-Cloud9 IDE develops and builds on [Ace](https://github.com/ajaxorg/ace), an 
+Cloud9 IDE develops and builds on [Ace](https://github.com/ajaxorgopen/ace), an 
 editor for writing code online. Cloud9's Ace editor currently supports 
 highlighting for about 100 programming languages, and any changes made to Ace are 
 reflected back into Cloud9 IDE. 
